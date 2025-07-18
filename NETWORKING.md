@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# write 100 Networking interview questions with answers in detail. dont do citations and without emoji
-
-Certainly! Here are **100 detailed Networking Interview Questions with Answers**, suitable for beginners to advanced networking professionals.
+# 100 NETWORKING Interview Questions with Answers
 
 ## BASIC NETWORKING CONCEPTS
 
